@@ -5,7 +5,6 @@ A simple and responsive feedback webpage for the **CNC Club, IISER Bhopal**, bui
 
 ## Features
 - Clean, modern dark-themed interface
-- Responsive design for desktop and mobile
 - Optional name and email fields
 - Feedback category selection
 - Interactive five-star rating system
